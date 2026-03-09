@@ -20,11 +20,11 @@ This project analyzes survey responses from professionals working in the **data 
 1. Open `dashboard/DataField_Survey.pbix` in Power BI Desktop.
 2. Connect it to `data/survey_raw.xlsx` (if not already embedded).
 3. Explore dashboards such as:
-   - Salary satisfaction vs work-life balance
-   - Happiness trends by role or years of experience
-   - Difficulty in entering the data field
+   - Average Salary by Role
+   - Average Age and Total Count of Participants
+   - Average Happiness with Salary and Work Life Balance
 
 ## Insights (Summary)
-- Work-life balance strongly correlates with reported happiness.
-- Entry difficulty varies by role; some roles require additional certifications.
-- Salary satisfaction improves with years of experience and role seniority.
+- Generally low level of satisfactoin with Salary and Work Life Balance
+- Data Scientists have the highest average salary while Databas Developers have the least
+  
